@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name cq352_adapter-rescue)(type Legacy)(uri ${KIPRJMOD}/cq352_adapter-rescue.lib)(options "")(descr ""))
+)
